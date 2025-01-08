@@ -3,6 +3,5 @@
 
 ## Functions 
 ## Pointers
-## Data types
 ## Arrays
 ## Data structures with C
